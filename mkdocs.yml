@@ -1,9 +1,9 @@
 # Project information
-site_name: "Awesome Home Assistant"
+site_name: Home Assistant Assistant
 site_url: "https://www.awesome-ha.com"
 site_description: "A curated list of awesome Home Assistant resources for automating every aspect of your home"
-site_author: "Franck Nijhof"
-copyright: "Copyright 2018 - 2022 - Franck Nijhof. Creative Commons Attribution 4.0."
+site_author: "Lon Naylor"
+copyright: "Copyright - Lon Naylor. Creative Commons Attribution 4.0."
 
 # Repository
 repo_name: "awesome-home-assistant"
@@ -25,7 +25,7 @@ theme:
 
     # Palette toggle for light mode
     - scheme: default
-      primary: "light-blue"
+      primary: "blue"
       accent: "pink"
       toggle:
         icon: material/brightness-7 
@@ -46,17 +46,17 @@ extra_css:
 extra:
   social:
     - icon: fontawesome/brands/github-alt
-      link: "https://github.com/frenck"
+      link: "https://github.com/lonnaylor"
     - icon: fontawesome/brands/twitter
-      link: "https://twitter.com/frenck"
+      link: "https://twitter.com/lonnaylor"
     - icon: fontawesome/brands/instagram
       link: "https://instagram.com/frenck"
     - icon: fontawesome/brands/twitch
       link: "https://twitch.tv/frenck"
     - icon: fontawesome/brands/youtube
-      link: "https://youtube.com/frenck"
+      link: "https://youtube.com/lonnaylor"
     - icon: fontawesome/brands/linkedin
-      link: "https://www.linkedin.com/in/frenck"
+      link: "https://www.linkedin.com/in/lonnaylor"
 
 # Extensions
 markdown_extensions:
@@ -81,9 +81,18 @@ markdown_extensions:
 
 # The pages to serve
 nav:
-  - "The Awesome List": "index.md"
-  - "Contributing": "contributing.md"
+  - Home: index.md
+  - Add-ons: addons.md
+  - Automations: automations.md
+  - Dashboards: dashboards.md
+  - Hardware: hardware.md
+  - Integrations: integrations.md
+  - Resources: resources.md
+  - Scripts: scripts.md
+  - Images: images.md
+
 
 plugins:
   - git-revision-date-localized:
       type: timeago
+  - search

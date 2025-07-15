@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "cf954063defc9687",
+    "type": "split",
+    "children": [
+      {
+        "id": "74d365a6388f5471",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "249bae584100753f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/images.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "images"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3f596b2fe6a0238d",
+    "type": "split",
+    "children": [
+      {
+        "id": "47d733924532df1b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fdfd40ebb12d7e83",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "30e25ee33b0d3bac",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d7567cc510d63542",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "67438af7670841ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb04c43d05b8c651",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47391e2de6dcc57d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "docs/images.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for images"
+            }
+          },
+          {
+            "id": "c22ef9f27debd401",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "docs/images.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from images"
+            }
+          },
+          {
+            "id": "2539763955448aa3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "caa7b16a66c5cba0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "docs/images.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of images"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "249bae584100753f",
+  "lastOpenFiles": [
+    "site/search/search_index.json",
+    "site/search",
+    "site/css/timeago.css",
+    "site/js/timeago_mkdocs_material.js",
+    "site/js/timeago.min.js",
+    "site/js",
+    "site/scripts/index.html",
+    "site/scripts",
+    "site/resources/index.html",
+    "site/resources",
+    "site/integrations/index.html",
+    "site/assets/images/favicon.png",
+    "site/images/raspberry-pi-dashboard.png",
+    "site/images/icon.svg",
+    "site/images/awesome-home-assistant.svg",
+    "site/images/awesome-home-assistant.64x64.png",
+    "site/images/awesome-home-assistant.512x512.png",
+    "site/images/awesome-home-assistant.32x32.png",
+    "site/images/awesome-home-assistant.256x256.png",
+    "site/images/awesome-home-assistant.128x128.png",
+    "site/images/4.png",
+    "docs/scripts.md",
+    "docs/resources.md",
+    "docs/integrations.md",
+    "docs/hardware.md",
+    "docs/dashboards.md",
+    "docs/images.md.md",
+    "docs/images.md",
+    "docs/automations.md",
+    "docs/addons.md",
+    "docs/index.md",
+    "docs/automations.md.md",
+    "docs/addons.md.md",
+    "README.md",
+    "automations.md",
+    "docs/index (2).md",
+    "docs/README.md"
+  ]
+}
